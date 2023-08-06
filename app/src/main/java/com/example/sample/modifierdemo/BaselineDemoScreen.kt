@@ -1,4 +1,4 @@
-package com.example.sample.modifierdemo.ui.theme
+package com.example.sample.modifierdemo
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
